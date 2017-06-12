@@ -26,3 +26,8 @@ class ViewController: UIViewController
 
 }
 
+//I made a new change to the code
+func newFunction()
+{
+
+}
